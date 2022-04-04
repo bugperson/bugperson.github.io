@@ -1,0 +1,19 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "PGB36VEQ8D.ru.yandex.fruits.develop",
+                "paths": [ "*" ]
+            },
+            {
+                "appID": "PGB36VEQ8D.ru.yandex.vegetables.develop",
+                "paths": [ "*" ]
+            },
+            {
+                "appID": "PGB36VEQ8D.ru.yandex.berries.develop",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
